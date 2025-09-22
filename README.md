@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Reza Hatami  
 
-💡 *Machine Learning Engineer | Data Enthusiast | Lifelong Learner*  
+💡 *Machine Learning Engineer*  
 
 I’m a **Machine Learning Engineer** with a unique background in **content strategy and digital transformation**, now fully focused on **AI, deep learning, and data-driven problem solving**. My journey spans over a decade of turning unstructured information into actionable insights—bridging the gap between **technical rigor** and **real-world impact**.  
 
