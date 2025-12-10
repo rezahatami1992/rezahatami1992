@@ -1,8 +1,8 @@
 # Hi there, I'm Reza Hatami. 👋
 ### Machine Learning Engineer | AI-Driven Growth Strategist
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_URL_HERE/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rezahatami1992/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:reza.hatami.1992@gmail.com)
 
 ---
 
@@ -32,8 +32,8 @@ I represent the new wave of developers who treat **Large Language Models (LLMs)*
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Face Verification API](LINK_TO_REPO)** | A high-performance REST API for robust facial recognition and biometric security. | `FastAPI` `InsightFace` `Docker` |
-| **[YOLOv8 Object Detection](LINK_TO_REPO)** | Real-time object detection microservice optimized for inference speed. | `Python` `YOLOv8` `Ultralytics` |
+| **[Face Verification API](https://github.com/rezahatami1992/face-verification-api)** | A high-performance REST API for robust facial recognition and biometric security. | `FastAPI` `InsightFace` `Docker` |
+| **[YOLOv8 Object Detection](https://github.com/rezahatami1992/yolo-api)** | Real-time object detection microservice optimized for inference speed. | `Python` `YOLOv8` `Ultralytics` |
 
 ---
 
