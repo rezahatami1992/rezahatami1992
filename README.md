@@ -1,49 +1,45 @@
-# Hi there, I'm Reza Hatami. 👋
-### Machine Learning Engineer | AI-Driven Growth Strategist
+# Hi there, I'm Reza Hatami 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rezahatami1992/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:reza.hatami.1992@gmail.com)
+### AI-Driven Content Strategist | Generative AI Specialist
 
----
+I bridge the gap between compelling human storytelling and cutting-edge artificial intelligence. I build automated content pipelines, design robust prompt architectures, and integrate Generative AI (LLMs, Multimodal) into marketing workflows to scale production without losing brand authenticity.
 
-### 🚀 The "Business-First" Engineer
-I am an **Entry-Level Machine Learning Engineer** with a 7-year background in **Growth Strategy & Content**. I don't just build models; I build solutions that drive quantifiable business impact.
-
-My transition to engineering is built on a simple philosophy: **Code is a tool to solve human problems.**
-
-### ⚡ My Competitive Edge: The LLM-Integrated Workflow
-I represent the new wave of developers who treat **Large Language Models (LLMs)** as a velocity multiplier, not just a chatbot.
-* **Rapid Prototyping:** I move from idea to MVP significantly faster by leveraging AI for boilerplate generation and refactoring.
-* **Architecture > Syntax:** My workflow allows me to focus on system design, data flow, and business logic while maintaining high code quality.
-* **Continuous Evolution:** I dedicate hours daily to staying on the bleeding edge of AI trends (YOLOv8, InsightFace, Transformer architectures).
+🌍 **Based in Iran | Available for Global Remote Work & Relocation**
 
 ---
 
-### 🛠 Tech Stack & Tools
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**Machine Learning & Data:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-**Deployment & MLOps:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+### 🚀 What I Do
+* **AI Content Pipelines:** Building scripts and workflows to automate SEO research, content drafting, and multi-channel distribution.
+* **Prompt Engineering & Architecture:** Designing complex, system-level prompts to ensure LLMs output high-quality, brand-aligned, and hallucination-free content.
+* **Workflow Automation:** Connecting APIs (OpenAI, Anthropic, Midjourney) with CMS platforms and project management tools.
 
 ---
 
-### 📂 Featured Projects
+### 🛠️ Tech Stack & Tools
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Face Verification API](https://github.com/rezahatami1992/face-verification-api)** | A high-performance REST API for robust facial recognition and biometric security. | `FastAPI` `InsightFace` `Docker` |
-| **[YOLOv8 Object Detection](https://github.com/rezahatami1992/yolo-api)** | Real-time object detection microservice optimized for inference speed. | `Python` `YOLOv8` `Ultralytics` |
+**AI & Machine Learning APIs:** `OpenAI API` | `Anthropic Claude` | `Midjourney` | `Hugging Face (Basics)`
 
----
+**Languages & Automation:** `Python (Data & API Scripts)` | `JSON` | `Markdown` | `Zapier / Make.com`
 
-### 📚 Continuous Learning
-* **Stanford University:** Machine Learning Specialization
-* **DeepLearning.AI:** Deep Learning Specialization
-* **IBM:** Full Stack Software Developer
+**Content & Strategy:** `SEO` | `WordPress/Webflow CMS` | `Data Scraping (BeautifulSoup)` | `A/B Testing`
 
 ---
 
-<p align="left">
-  <i>"The future of coding isn't just about writing syntax; it's about how effectively you can curate intelligence to build value."</i>
-</p>
+### 📂 Featured AI/Content Projects
+
+*Here are a few ways I am applying AI to content challenges:*
+
+* **Face Verification API** * *What it is:* A high-performance face verification REST API built with FastAPI and InsightFace for robust facial recognition and similarity comparison.
+* **YOLO Object Detection API** * *What it is:* A FastAPI-based object detection service using YOLOv8 from Ultralytics.
+
+*(Note: Click on my repositories below to see the code and prompt structures in action!)*
+
+---
+
+### 📫 Let's Connect
+
+* **LinkedIn:** https://www.linkedin.com/in/rezahatami1992/
+* **Portfolio/Website:** https://linktr.ee/rezahatami1992
+* **Email:** reza.hatami.1992@gmail.com
+
+💡 *"Content is the engine; AI is the multiplier."*
