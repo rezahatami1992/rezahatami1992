@@ -31,13 +31,13 @@ I am an experienced professional transitioning from 7 years in Digital Strategy 
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezahatami1992&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
 
-- 💼 https://www.linkedin.com/in/rezahatami1992/
+- 💼 [LinkedIn Profile]([[YOUR_LINKEDIN_URL]](https://www.linkedin.com/in/rezahatami1992/))
 - 📧 reza.hatami.1992@gmail.com
 - 🌍 Based in Iran | Seeking Global Junior/Internship Roles
 
