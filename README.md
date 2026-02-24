@@ -37,7 +37,7 @@ I am an experienced professional transitioning from 7 years in Digital Strategy 
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn Profile]([[YOUR_LINKEDIN_URL]](https://www.linkedin.com/in/rezahatami1992/))
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/rezahatami1992/)
 - 📧 reza.hatami.1992@gmail.com
 - 🌍 Based in Iran | Seeking Global Junior/Internship Roles
 
