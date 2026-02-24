@@ -1,45 +1,46 @@
-# Hi there, I'm Reza Hatami 👋
+# Hi, I'm Reza Hatami 👋 
 
-### AI-Driven Content Strategist | Generative AI Specialist
+### 🏗️ Mining Engineer | 🚀 Marketing Veteran | 🤖 AI Explorer
 
-I bridge the gap between compelling human storytelling and cutting-edge artificial intelligence. I build automated content pipelines, design robust prompt architectures, and integrate Generative AI (LLMs, Multimodal) into marketing workflows to scale production without losing brand authenticity.
-
-🌍 **Based in Iran | Available for Global Remote Work & Relocation**
+I am an experienced professional transitioning from 7 years in Digital Strategy into the technical side of **Artificial Intelligence**. My journey is fueled by a solid mathematical foundation from my Engineering degree and a deep-seated passion for how LLMs and Data are reshaping our world.
 
 ---
 
-### 🚀 What I Do
-* **AI Content Pipelines:** Building scripts and workflows to automate SEO research, content drafting, and multi-channel distribution.
-* **Prompt Engineering & Architecture:** Designing complex, system-level prompts to ensure LLMs output high-quality, brand-aligned, and hallucination-free content.
-* **Workflow Automation:** Connecting APIs (OpenAI, Anthropic, Midjourney) with CMS platforms and project management tools.
+### 🛠️ My Technical Toolbox
+
+- **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL
+- **AI/ML:** Prompt Engineering, RAG (Retrieval-Augmented Generation), Fine-tuning LLMs
+- **Tools:** Git, Docker, VS Code, Jupyter Notebooks
+- **Foundations:** Linear Algebra, Statistics, Data Modeling
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🔬 Featured Projects
 
-**AI & Machine Learning APIs:** `OpenAI API` | `Anthropic Claude` | `Midjourney` | `Hugging Face (Basics)`
+#### 📂 Face Verification API
+*A high-performance face verification REST API built with FastAPI and InsightFace for robust facial recognition and similarity comparison.*
+- **Tech:** Python, LangChain, Streamlit
+- https://github.com/rezahatami1992/face-verification-api
 
-**Languages & Automation:** `Python (Data & API Scripts)` | `JSON` | `Markdown` | `Zapier / Make.com`
-
-**Content & Strategy:** `SEO` | `WordPress/Webflow CMS` | `Data Scraping (BeautifulSoup)` | `A/B Testing`
-
----
-
-### 📂 Featured AI/Content Projects
-
-*Here are a few ways I am applying AI to content challenges:*
-
-* **Face Verification API** * *What it is:* A high-performance face verification REST API built with FastAPI and InsightFace for robust facial recognition and similarity comparison.
-* **YOLO Object Detection API** * *What it is:* A FastAPI-based object detection service using YOLOv8 from Ultralytics.
-
-*(Note: Click on my repositories below to see the code and prompt structures in action!)*
+#### 📂 YOLO Object Detection API
+*A FastAPI-based object detection service using YOLOv8 from Ultralytics.*
+- **Tech:** Scikit-Learn, Matplotlib, Pandas
+- https://github.com/rezahatami1992/yolo-api
 
 ---
 
-### 📫 Let's Connect
+### 📊 GitHub Stats
 
-* **LinkedIn:** https://www.linkedin.com/in/rezahatami1992/
-* **Portfolio/Website:** https://linktr.ee/rezahatami1992
-* **Email:** reza.hatami.1992@gmail.com
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
 
-💡 *"Content is the engine; AI is the multiplier."*
+---
+
+### 📫 Connect with Me
+
+- 💼 https://www.linkedin.com/in/rezahatami1992/
+- 📧 reza.hatami.1992@gmail.com
+- 🌍 Based in Iran | Seeking Global Junior/Internship Roles
+
+---
+
+> "The best way to predict the future is to build it." — I am currently building mine in the AI space.
