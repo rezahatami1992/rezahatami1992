@@ -19,19 +19,19 @@ I am an experienced professional transitioning from 7 years in Digital Strategy 
 
 #### 📂 Face Verification API
 *A high-performance face verification REST API built with FastAPI and InsightFace for robust facial recognition and similarity comparison.*
-- **Tech:** Python, LangChain, Streamlit
+- **Tech:** Python, FastAPI, InsightFace (ArcFace/RetinaFace), Computer Vision (OpenCV), RESTful APIs, ONNX Runtime, NumPy
 - https://github.com/rezahatami1992/face-verification-api
 
 #### 📂 YOLO Object Detection API
 *A FastAPI-based object detection service using YOLOv8 from Ultralytics.*
-- **Tech:** Scikit-Learn, Matplotlib, Pandas
+- **Tech:** Python, FastAPI, YOLOv8 (Ultralytics), Computer Vision, REST APIs, Pillow
 - https://github.com/rezahatami1992/yolo-api
 
 ---
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezahatami1992&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezahatami1992&show_icons=true&theme=radical)
 
 ---
 
